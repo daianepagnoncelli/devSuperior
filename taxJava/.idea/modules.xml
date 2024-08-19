@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/taxJava.iml" filepath="$PROJECT_DIR$/.idea/taxJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/TaxJava.iml" filepath="$PROJECT_DIR$/.idea/TaxJava.iml" />
     </modules>
   </component>
 </project>

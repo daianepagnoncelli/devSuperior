@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class athletesJava {
+public class AthletesJava {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -18,7 +18,7 @@ public class athletesJava {
             System.out.printf("Enter the data for athlete number %d:%n", i);
 
             System.out.print("Name: ");
-            scanner.nextLine(); // Clear the scanner buffer
+            scanner.nextLine();
             String name = scanner.nextLine();
 
             String gender;
