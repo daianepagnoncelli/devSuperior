@@ -8,7 +8,7 @@ public class Department {
     private int payDay;
     private String email;
     private String phone;
-    private List<Employee> employees = new ArrayList<>();
+    private List<Employee> employees = new ArrayList<>(); //add list for more employees
 
     public Department(String name, int payDay, String email, String phone) {
         this.name = name;
